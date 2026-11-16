@@ -13,12 +13,12 @@ I specialize in building high-performance, modern, and accessible web applicatio
 ---
 
 ### 🚀 Featured Projects
-* **[Next.js SaaS ERP System](#)** — A modern, minimal enterprise resource planning dashboard featuring clean modular navigation, memoized pagination, optimized component isolation, and lightning-fast table performance.
-* **[Shopify LLM Assistant](#)** — An end-to-end e-commerce AI assistant built with Python, text embeddings, and webhooks to streamline automated customer interactions and store workflows.
-* **[Automated Financial Data Analysis App](#)** — A robust data-parsing and reporting application processing multi-format bank statements (PDF, CSV, DOCX) and mapping transactions to structured schemas.
+* **Next.js SaaS ERP System** — A modern, minimal enterprise resource planning dashboard featuring clean modular navigation, memoized pagination, optimized component isolation, and lightning-fast table performance.
+* **Shopify LLM Assistant** — An end-to-end e-commerce AI assistant built with Python, text embeddings, and webhooks to streamline automated customer interactions and store workflows.
+* **Automated Financial Data Analysis App** — A robust data-parsing and reporting application processing multi-format bank statements (PDF, CSV, DOCX) and mapping transactions to structured schemas.
 
 ---
 
 📫 **Get in touch:** 
-* **Email:** [Your Email]
-* **LinkedIn:** [Your LinkedIn Profile URL]
+* **Email:** omaissohail96@gmail.com
+* **LinkedIn:** https://www.linkedin.com/in/omais-sohail-8a029a29b/
